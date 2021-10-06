@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cbow dot io</title>
-    <link>http://cbowland.github.io/</link>
+    <link>http://cbow.io/</link>
     <description>Recent content on cbow dot io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://cbowland.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://cbow.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://cbowland.github.io/about/</link>
+      <link>http://cbow.io/about/</link>
       <pubDate>Wed, 06 Oct 2021 11:26:44 -0500</pubDate>
       
-      <guid>http://cbowland.github.io/about/</guid>
+      <guid>http://cbow.io/about/</guid>
       <description>Exploring the intersection between people and technology.</description>
     </item>
     
