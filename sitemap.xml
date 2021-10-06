@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cbow.io/about/</loc>
+    <loc>http://cbowland.github.io/about/</loc>
     <lastmod>2021-10-06T11:26:44-05:00</lastmod>
   </url><url>
-    <loc>https://cbow.io/categories/</loc>
+    <loc>http://cbowland.github.io/categories/</loc>
   </url><url>
-    <loc>https://cbow.io/</loc>
+    <loc>http://cbowland.github.io/</loc>
   </url><url>
-    <loc>https://cbow.io/tags/</loc>
+    <loc>http://cbowland.github.io/tags/</loc>
   </url>
 </urlset>
