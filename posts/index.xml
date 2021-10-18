@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cbow dot io</title>
-    <link>https://cbow.io/</link>
-    <description>Recent content on cbow dot io</description>
+    <title>Posts on cbow dot io</title>
+    <link>https://cbow.io/posts/</link>
+    <description>Recent content in Posts on cbow dot io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 13:19:59 -0500</lastBuildDate><atom:link href="https://cbow.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 13:19:59 -0500</lastBuildDate><atom:link href="https://cbow.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Red Hat OpenShift Self Service</title>
       <link>https://cbow.io/2021/10/red-hat-openshift-self-service/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://cbow.io/2021/10/red-hat-openshift-self-service/</guid>
       <description>The goals of operations and development teams continue to be orthogonal. For operations, scale and stability remain the primary drivers, while for development teams it is innovation and differentiation. Bridging this chasm is the key to creating a platform that can meet the needs of both organizations simultaneously — in other words, delivering a platform that provides innovation at scale.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://cbow.io/about/</link>
-      <pubDate>Wed, 06 Oct 2021 11:26:44 -0500</pubDate>
-      
-      <guid>https://cbow.io/about/</guid>
-      <description>Exploring the intersection between people and technology.</description>
     </item>
     
   </channel>

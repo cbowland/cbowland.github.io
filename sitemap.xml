@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cbow.io/</loc>
+    <lastmod>2021-10-15T13:19:59-05:00</lastmod>
+  </url><url>
+    <loc>https://cbow.io/posts/</loc>
+    <lastmod>2021-10-15T13:19:59-05:00</lastmod>
+  </url><url>
+    <loc>https://cbow.io/2021/10/red-hat-openshift-self-service/</loc>
+    <lastmod>2021-10-15T13:19:59-05:00</lastmod>
+  </url><url>
     <loc>https://cbow.io/about/</loc>
     <lastmod>2021-10-06T11:26:44-05:00</lastmod>
   </url><url>
     <loc>https://cbow.io/categories/</loc>
-  </url><url>
-    <loc>https://cbow.io/</loc>
   </url><url>
     <loc>https://cbow.io/tags/</loc>
   </url>
