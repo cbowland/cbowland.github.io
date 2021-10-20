@@ -6,13 +6,22 @@
     <description>Recent content on cbow dot io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 13:19:59 -0500</lastBuildDate><atom:link href="https://cbow.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 16:56:30 -0500</lastBuildDate><atom:link href="https://cbow.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Red Hat OpenShift Self Service</title>
-      <link>https://cbow.io/2021/10/red-hat-openshift-self-service/</link>
+      <title>OpenShift for ISVs</title>
+      <link>https://cbow.io/2021/10/openshift-for-isvs/</link>
+      <pubDate>Mon, 18 Oct 2021 16:56:30 -0500</pubDate>
+      
+      <guid>https://cbow.io/2021/10/openshift-for-isvs/</guid>
+      <description>The Enterprise Impact Of Containers The packaging of applications into containers and running them as sandboxed linux processes instead of on virtual machines is becoming increasingly popular across all verticals as well as types of applications. No longer the sole domain of microservice architecture, Independent Software Vendors (ISVs) are choosing to packing their products as containers in order to take advantage of three trends within enterprise IT — moving from monolithic applications, past n-tier applications, and towards applications that are fully distributed and decoupled; leaving behind waterfall development process to enable agile and dev/ops approaches to application development; and choosing to run increasing percentages of workloads outside of both internal as well as hosted data centers and in true cloud environments.</description>
+    </item>
+    
+    <item>
+      <title>OpenShift Self Service</title>
+      <link>https://cbow.io/2021/10/openshift-self-service/</link>
       <pubDate>Fri, 15 Oct 2021 13:19:59 -0500</pubDate>
       
-      <guid>https://cbow.io/2021/10/red-hat-openshift-self-service/</guid>
+      <guid>https://cbow.io/2021/10/openshift-self-service/</guid>
       <description>The goals of operations and development teams continue to be orthogonal. For operations, scale and stability remain the primary drivers, while for development teams it is innovation and differentiation. Bridging this chasm is the key to creating a platform that can meet the needs of both organizations simultaneously — in other words, delivering a platform that provides innovation at scale.</description>
     </item>
     
